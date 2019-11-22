@@ -67,7 +67,7 @@ número de caramelos que ingreses.
 ### UX
 - [x] Diseñar la aplicación pensando y entendiendo al usuario.
 - [x] Crear prototipos para obtener _feedback_ e iterar.
-- [] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 - [x] Planear y ejecutar _tests_ de usabilidad.
 ### HTML y CSS
 - [x] Entender y reconocer por qué es importante el HTML semántico.
@@ -81,7 +81,7 @@ número de caramelos que ingreses.
 ### Javascript
 - [x] Manipular arrays (`filter` | `map` | `sort` | `reduce`).
 - [x] Manipular objects (key | value).
-- [] Entender el uso de condicionales (`if-else` | `switch`).
+- [ ] Entender el uso de condicionales (`if-else` | `switch`).
 - [x] Entender el uso de bucles (`for` | `forEach`).
 - [ ] Entender la diferencia entre expression y statements.
 - [x] Utilizar funciones (parámetros | argumentos | valor de retorno).
